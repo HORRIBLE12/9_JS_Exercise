@@ -16,5 +16,5 @@ function testFun(parameter1, parameter2) {
 
 - Create a function named as `functionWithArgs`
 - `functionWithArgs` should have two parameters
-- `functionWithArgs` should output (`console.log()`) 3
-- `functionWithArgs` should output (`console.log()`) 10
+- `functionWithArgs` should print (`console.log()`) 3
+- `functionWithArgs` should print (`console.log()`) 10
